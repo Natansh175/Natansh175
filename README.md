@@ -1,8 +1,9 @@
 Hey👋
+
 <br>
 <hr/>
 
-<h3 align="left">Currently pursuing BE / B.Tech in Information and Communication Technology(ICT).Currently learning React.</h3>
+<h3 align="centre">Currently pursuing BE / B.Tech in Information and Communication Technology(ICT).Currently learning <h3 align="left">React.</h3></h3>
 <h4>Loading...</h4>
 <br>
 <hr/>
