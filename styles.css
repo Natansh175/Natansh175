@@ -1,0 +1,7 @@
+.SM {
+  border-radius: 12px;
+}
+
+.SM:hover{
+  transform : scale(1.2) ;
+}
