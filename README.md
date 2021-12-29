@@ -10,9 +10,12 @@ Hello World! 👋
 
 ### Let's Connect:
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img align="left" alt="codeSTACKr | YouTube" width="22px" src="G-mail.png" /></a>
-<a href="https://twitter.com/NatanshShah"><img align="left" alt="codeSTACKr | Twitter" width="22px" src="Twitter.png" /></a>
-<a href="https://www.linkedin.com/in/natansh-shah-281524204/"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="LinkedIn.png" /></a>
-<a href="https://www.instagram.com/natansh_1753/"><img align="left" alt="codeSTACKr | Instagram" width="22px" src="Instagram.png" /></a>
+<a href="mailto:natansh175@gmail.com"><img class="SM" src="G-mail.png" width="22px" alt="G-Mail Icon" style="border-radius: 12px;" hspace="10"></a>
+<a href="https://www.linkedin.com/in/natansh-shah-281524204/"><img class="SM" src="LinkedIn.png" width="22px" alt="LinkedIn Icon" hspace="10"></a>
+<a href="https://www.instagram.com/natansh_1753/"><img class="SM" src="Instagram.png" width="22px" alt="Instagram Icon" hspace="10"></a>
+<a href="https://twitter.com/NatanshShah"><img class="SM" src="Twitter.png" width="23px" height="22px" alt="Twitter Icon" hspace="10"></a>
 
 <br />
+.SM{
+boder-radius: 12px;
+}
