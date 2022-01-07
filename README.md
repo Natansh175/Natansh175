@@ -1,5 +1,4 @@
-### Hello World! 👋
-
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=5F6769&size=30&center=true&vCenter=true&width=550&height=70&lines=Hello+World!👋,+I'm+Shah+Natansh;+An+Open+Source+Enthusiast+☀;Frontend+Web+Developer+💻;">
 <br>
 <hr/>
 
