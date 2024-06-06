@@ -2,7 +2,7 @@
 <br>
 <hr/>
 
-<h3 align="centre">Currently pursuing BE / B.Tech in Information and Communication Technology(ICT).<br>Learning React.</h3>
+<h3 align="centre">B.E. in Information and Communication Technology(ICT).<br>Always Learning.</h3>
 <h4>Loading...</h4>
 <br>
 <hr/>
