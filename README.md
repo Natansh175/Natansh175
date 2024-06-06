@@ -2,7 +2,7 @@
 <br>
 <hr/>
 
-# 💫 About Me:
+#  About Me:
 🔭 Currently working on web frameworks.<br>🌱 I’m currently learning Django and basic Machine learning concepts.<br>💬 Ask me about Maths, Memes and Machines.<br>
 
 
